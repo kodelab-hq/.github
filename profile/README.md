@@ -6,7 +6,7 @@ Turning ideas into scalable web and mobile products.
 
 ### ⚙️ What We Do
 
-We design and engineer modern digital products for startups, founders, and businesses — from initial concept to scalable production systems.
+We design and engineer modern digital products for startups, founders, and businesses from initial concept to scalable production systems.
 
 - **Web Applications** — Fast, responsive, and production-ready platforms  
 - **SaaS Products** — Scalable systems built for growth  
@@ -17,7 +17,7 @@ We design and engineer modern digital products for startups, founders, and busin
 
 ### 🧪 KodeLab Labs
 
-We actively build and experiment with internal products, tools, and systems — showcasing our approach to real-world problem solving and scalable architecture.
+We actively build and experiment with internal products, tools, and systems — showcasing our approach to real world problem solving and scalable architecture.
 
 ---
 
@@ -25,8 +25,8 @@ We actively build and experiment with internal products, tools, and systems — 
 
 We use modern, production-grade tools and architectures focused on performance, scalability, and reliability.
 
-- Frontend: React, Next.js, Tailwind  
-- Infrastructure: Cloudflare (Edge + Serverless)  
+- Frontend: React, Next.js, Angular, Tailwind  
+- Infrastructure: Cloudflare (Edge + Serverless), AWS
 - Backend: APIs, serverless functions, scalable services  
 - Systems: Automation, performance optimization, clean architecture  
 
